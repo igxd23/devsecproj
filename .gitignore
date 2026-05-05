@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# ML Models
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build
+dist/
+build/
+
+# Docker
+*.tar
+
+# Temporary files
+tmp/
+temp/
+
+# Data files (optional)
+# *.csv
