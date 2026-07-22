@@ -7,3 +7,4 @@ joblib
 pytest
 bandit
 pip-audit
+stepuptools==83.0.0
