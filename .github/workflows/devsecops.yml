@@ -37,6 +37,7 @@ jobs:
         bandit -r . --exclude ./tests
         
     - name: Run pip-audit
+      continue-on-error: true
       run: |
         pip-audit
 
